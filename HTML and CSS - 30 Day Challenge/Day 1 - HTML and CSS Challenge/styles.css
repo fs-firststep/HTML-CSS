@@ -1,0 +1,16 @@
+/* Write your CSS here */
+#square {
+	width: 100px;
+	height: 100px;
+    background-color: black;
+}
+
+#circle {
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+    /* You can alternative use 50% instead of 50px as well, the both yeild
+        the same result */
+    /* border-radius: 50%  */
+    background-color: aqua;
+}
